@@ -6,6 +6,6 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Servidor Node' });
 });
 function iniciar(){
-	alert('hola');
+	alert('hola holaz');
 }
 module.exports = router;
